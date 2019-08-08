@@ -3,6 +3,8 @@
 Download Kafka from https://www.apache.org/dyn/closer.cgi?path=/kafka/2.3.0/kafka-2.3.0-src.tgz
  http://mirrors.estointernet.in/apache/kafka/2.2.0/kafka_2.11-2.2.0.tgz
  
+ If depependency problems comes in pom.xml for 2.1.5.RELEASE switch to the 2.0.2.RELEASE which is more stable.
+ 
 zookeeper.properties
 # The directory where the snapshot is stored.
 dataDir=/tmp/zookeeper
